@@ -1,0 +1,225 @@
+{
+  "sessions": [
+    {
+      "id": "session_20260502164505",
+      "date": "2026-05-02",
+      "subject": "methodofmoments",
+      "score": 6,
+      "total": 16,
+      "percent": 38,
+      "best_streak": 2,
+      "session_type": "quiz"
+    },
+    {
+      "id": "session_20260502164511",
+      "date": "2026-05-02",
+      "subject": "methodofmoments",
+      "score": 6,
+      "total": 16,
+      "percent": 38,
+      "best_streak": 2,
+      "session_type": "quiz"
+    },
+    {
+      "id": "session_20260502165339",
+      "date": "2026-05-02",
+      "subject": "methodofmoments",
+      "score": 8,
+      "total": 16,
+      "percent": 50,
+      "best_streak": 2,
+      "session_type": "quiz"
+    },
+    {
+      "id": "session_20260502200205",
+      "date": "2026-05-02",
+      "subject": "neural network",
+      "score": 9,
+      "total": 15,
+      "percent": 60,
+      "best_streak": 2,
+      "session_type": "quiz"
+    },
+    {
+      "id": "session_20260502201235",
+      "date": "2026-05-02",
+      "subject": "neural network",
+      "score": 2,
+      "total": 15,
+      "percent": 13,
+      "best_streak": 2,
+      "session_type": "quiz"
+    },
+    {
+      "id": "session_20260502204743",
+      "date": "2026-05-02",
+      "subject": "neural network",
+      "score": 1,
+      "total": 15,
+      "percent": 7,
+      "best_streak": 1,
+      "session_type": "quiz"
+    },
+    {
+      "id": "session_20260502204744",
+      "date": "2026-05-02",
+      "subject": "neural network",
+      "score": 1,
+      "total": 15,
+      "percent": 7,
+      "best_streak": 1,
+      "session_type": "quiz"
+    },
+    {
+      "id": "session_20260502204944",
+      "date": "2026-05-02",
+      "subject": "neural network",
+      "score": 1,
+      "total": 15,
+      "percent": 7,
+      "best_streak": 1,
+      "session_type": "quiz"
+    },
+    {
+      "id": "session_20260502205927",
+      "date": "2026-05-02",
+      "subject": "ml",
+      "score": 3,
+      "total": 15,
+      "percent": 20,
+      "best_streak": 1,
+      "session_type": "quiz"
+    },
+    {
+      "id": "session_20260502205947",
+      "date": "2026-05-02",
+      "subject": "ml",
+      "score": 3,
+      "total": 15,
+      "percent": 20,
+      "best_streak": 1,
+      "session_type": "quiz"
+    },
+    {
+      "id": "session_20260502205958",
+      "date": "2026-05-02",
+      "subject": "ml",
+      "score": 3,
+      "total": 15,
+      "percent": 20,
+      "best_streak": 1,
+      "session_type": "quiz"
+    },
+    {
+      "id": "session_20260502210139",
+      "date": "2026-05-02",
+      "subject": "ml",
+      "score": 3,
+      "total": 15,
+      "percent": 20,
+      "best_streak": 1,
+      "session_type": "quiz"
+    },
+    {
+      "id": "session_20260502211927",
+      "date": "2026-05-02",
+      "subject": "neural network",
+      "score": 1,
+      "total": 15,
+      "percent": 7,
+      "best_streak": 1,
+      "session_type": "quiz"
+    }
+  ],
+  "weak_topics": {
+    "Method of Moments Estimation": 26,
+    "Poisson Distribution": 2,
+    "Design of Machine Learning System": 2,
+    "Supervised Learning": 20,
+    "Unsupervised Learning": 6,
+    "Machine Learning Algorithm": 7,
+    "Types of Learning": 7,
+    "ML Algorithm": 7,
+    "Reinforcement Learning": 10,
+    "ML System": 2,
+    "Machine Learning Workflow": 9,
+    "Semi-supervised Learning": 3,
+    "Machine Learning": 3,
+    "Design of an ML system": 16,
+    "Components of ML algorithm": 12,
+    "Machine Learning Introduction": 8,
+    "Example ML tasks": 8,
+    "ML System Design": 3
+  },
+  "timetables": {
+    "2026-05-02": {
+      "mode": "daily",
+      "available_hours": 8.0,
+      "generated_at": "2026-05-02 20:18:47.816081",
+      "tasks": [
+        {
+          "id": "task_0_20260502",
+          "subject": "o;dskl",
+          "duration_mins": 50,
+          "start_time": "09:00",
+          "task_type": "general_study",
+          "completed": true,
+          "rescheduled_from": null
+        },
+        {
+          "id": "task_1_20260502",
+          "subject": "Break",
+          "duration_mins": 10,
+          "start_time": "09:50",
+          "task_type": "break",
+          "completed": false,
+          "rescheduled_from": null
+        },
+        {
+          "id": "task_2_20260502",
+          "subject": "o;dskl",
+          "duration_mins": 25,
+          "start_time": "10:00",
+          "task_type": "general_study",
+          "completed": false,
+          "rescheduled_from": null
+        }
+      ]
+    },
+    "2026-05-03": {
+      "mode": "weekly",
+      "available_hours": 8.0,
+      "generated_at": "2026-05-02 17:38:02.441786",
+      "tasks": [
+        {
+          "id": "task_0_20260503",
+          "subject": "kl",
+          "duration_mins": 50,
+          "start_time": "09:00",
+          "task_type": "general_study",
+          "completed": false,
+          "rescheduled_from": null
+        },
+        {
+          "id": "task_1_20260503",
+          "subject": "Break",
+          "duration_mins": 10,
+          "start_time": "09:50",
+          "task_type": "break",
+          "completed": false,
+          "rescheduled_from": null
+        },
+        {
+          "id": "task_2_20260503",
+          "subject": "kl",
+          "duration_mins": 25,
+          "start_time": "10:00",
+          "task_type": "general_study",
+          "completed": false,
+          "rescheduled_from": null
+        }
+      ]
+    }
+  },
+  "subjects_meta": {}
+}
