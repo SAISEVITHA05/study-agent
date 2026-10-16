@@ -1,6 +1,8 @@
 # Study AI Agent 
 AIKR S2026 Project - StudyChingu
 
+Live demo: https://study-agent-10-11-100.streamlit.app/
+
 We implimented a goak based agent that reads uploaded student notes and helos you through your learning journey through flashcards, quizzes, doubts solving agent and a custom time table planner.
 
 
