@@ -15,8 +15,14 @@ sys.path.insert(0, os.path.dirname(__file__))
 
 # ── Load API key from .env automatically ─────────────────────────────────────
 load_dotenv(override=True)
-if os.getenv("GROQ_API_KEY"):
-    st.session_state["api_key"] = os.getenv("GROQ_API_KEY")
+_key = os.getenv("GROQ_API_KEY")
+if not _key:
+    try:
+        _key = st.secrets["GROQ_API_KEY"]  # Streamlit Cloud / secrets.toml
+    except Exception:
+        _key = None
+if _key:
+    st.session_state["api_key"] = _key
 
 # ── Imports ───────────────────────────────────────────────────────────────────
 from groq import Groq
